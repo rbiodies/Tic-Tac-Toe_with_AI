@@ -46,6 +46,4 @@ Enter the coordinates: 3 3
 |     X |
 ---------
 X wins
-
-Process finished with exit code 0
 ```
